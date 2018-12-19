@@ -2,7 +2,8 @@
 
 export
 ```shell
-apm list --installed --bare > atom-packages.txt
+apm list --installed --bare > atom-packages.txt;gac 'update';gpo
+
 ```
 
 install
